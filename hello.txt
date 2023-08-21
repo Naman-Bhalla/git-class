@@ -1,0 +1,31 @@
+1
+2
+3
+4
+4
+5
+5
+5
+6
+
+76
+7
+7
+7
+hello
+7
+7
+7
+5
+4
+3
+22
+345
+
+543
+56
+454
+3
+
+-- Adding  afile means saying that all changes to that file till now
+-- must be saved in next commit
